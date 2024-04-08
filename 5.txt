@@ -1,0 +1,7 @@
+Tasking a robot that just finished a task would increase the contention for resources (tools) in this case which would increase the chance of deadlock.
+The deadlock prevention strategy in my code swaps tool acquisition order based on robot ID. Immediate reassignment to a robot that just finished complicates this strategy as this could further complicate resource requests.
+The system could also be at an increased risk for performance bottlenecks, especially the locking mechanism or the task reassignment logic. 
+
+Some potential solutions to this issue would be to schedule the robots in a rotating order, ensuring the one resource is not being oversatured and competing against the others. 
+Setting some dynamic resource allocation where robots can reserve the tools in advance can also help to prevent deadlock.
+Careful program design needs to be taken overall to help prevent these issues. 

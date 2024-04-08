@@ -1,0 +1,6 @@
+Since multiple processes in this code take time to finish, careful attention needs to be paid to the different threads attempting to access shared resources at the same time.
+For example, in this code, if two aircraft check the pattern queue size at the same time and both decide they can enter since it was under the limit when they checked. This could unintentionally fill up the landing pattern past its limit.
+Deadlock could also be an issue in this code. If two or more threads are waiting on each other to release their resources before they start theirs, this could cause the program to potentially freeze while these threads wait for something that is never coming.
+
+Proper use of mutexes can prevent problems from threads trying to simultaneously access shared resources at the same time.
+Enforcing a strict order in which locks must be acquired can help with deadlock but would not be applicable to a dynamic ATC environment like this, requiring very careful program design.
