@@ -1,0 +1,3 @@
+D:/VISUAL STUDIO CODE/PROJECTS/AERSP424 HW2/HW2/4/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate.dir
+D:/VISUAL STUDIO CODE/PROJECTS/AERSP424 HW2/HW2/4/build/_deps/glfw-subbuild/CMakeFiles/ALL_BUILD.dir
+D:/VISUAL STUDIO CODE/PROJECTS/AERSP424 HW2/HW2/4/build/_deps/glfw-subbuild/CMakeFiles/ZERO_CHECK.dir

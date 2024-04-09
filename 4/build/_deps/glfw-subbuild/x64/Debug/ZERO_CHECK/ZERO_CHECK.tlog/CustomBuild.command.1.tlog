@@ -1,0 +1,10 @@
+^D:\VISUAL STUDIO CODE\PROJECTS\AERSP424 HW2\HW2\4\BUILD\_DEPS\GLFW-SUBBUILD\CMAKEFILES\84CDA94CCFFA0735AA8A676273C56C33\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/VISUAL STUDIO CODE/PROJECTS/AERSP424 HW2/HW2/4/build/_deps/glfw-subbuild" "-BD:/VISUAL STUDIO CODE/PROJECTS/AERSP424 HW2/HW2/4/build/_deps/glfw-subbuild" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/VISUAL STUDIO CODE/PROJECTS/AERSP424 HW2/HW2/4/build/_deps/glfw-subbuild/glfw-populate.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

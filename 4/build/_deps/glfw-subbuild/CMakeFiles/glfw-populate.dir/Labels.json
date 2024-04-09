@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/VISUAL STUDIO CODE/PROJECTS/AERSP424 HW2/HW2/4/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate"
+		},
+		{
+			"file" : "D:/VISUAL STUDIO CODE/PROJECTS/AERSP424 HW2/HW2/4/build/_deps/glfw-subbuild/CMakeFiles/84cda94ccffa0735aa8a676273c56c33/glfw-populate.rule"
+		},
+		{
+			"file" : "D:/VISUAL STUDIO CODE/PROJECTS/AERSP424 HW2/HW2/4/build/_deps/glfw-subbuild/CMakeFiles/cb4a1b9a2995f5a6e4c2f05dfa96f03d/glfw-populate-complete.rule"
+		},
+		{
+			"file" : "D:/VISUAL STUDIO CODE/PROJECTS/AERSP424 HW2/HW2/4/build/_deps/glfw-subbuild/CMakeFiles/dedf62160ba07b25258b7bca5f3432dc/glfw-populate-build.rule"
+		},
+		{
+			"file" : "D:/VISUAL STUDIO CODE/PROJECTS/AERSP424 HW2/HW2/4/build/_deps/glfw-subbuild/CMakeFiles/dedf62160ba07b25258b7bca5f3432dc/glfw-populate-configure.rule"
+		},
+		{
+			"file" : "D:/VISUAL STUDIO CODE/PROJECTS/AERSP424 HW2/HW2/4/build/_deps/glfw-subbuild/CMakeFiles/dedf62160ba07b25258b7bca5f3432dc/glfw-populate-download.rule"
+		},
+		{
+			"file" : "D:/VISUAL STUDIO CODE/PROJECTS/AERSP424 HW2/HW2/4/build/_deps/glfw-subbuild/CMakeFiles/dedf62160ba07b25258b7bca5f3432dc/glfw-populate-install.rule"
+		},
+		{
+			"file" : "D:/VISUAL STUDIO CODE/PROJECTS/AERSP424 HW2/HW2/4/build/_deps/glfw-subbuild/CMakeFiles/dedf62160ba07b25258b7bca5f3432dc/glfw-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/VISUAL STUDIO CODE/PROJECTS/AERSP424 HW2/HW2/4/build/_deps/glfw-subbuild/CMakeFiles/dedf62160ba07b25258b7bca5f3432dc/glfw-populate-patch.rule"
+		},
+		{
+			"file" : "D:/VISUAL STUDIO CODE/PROJECTS/AERSP424 HW2/HW2/4/build/_deps/glfw-subbuild/CMakeFiles/dedf62160ba07b25258b7bca5f3432dc/glfw-populate-test.rule"
+		},
+		{
+			"file" : "D:/VISUAL STUDIO CODE/PROJECTS/AERSP424 HW2/HW2/4/build/_deps/glfw-subbuild/CMakeFiles/dedf62160ba07b25258b7bca5f3432dc/glfw-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw-populate"
+		],
+		"name" : "glfw-populate"
+	}
+}

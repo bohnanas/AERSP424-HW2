@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\VISUAL STUDIO CODE\PROJECTS\AERSP424 HW2\HW2\1\1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\VISUAL STUDIO CODE\PROJECTS\AERSP424 HW2\HW2\1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C1713B1F-A575-3075-804D-7700A44B07B8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

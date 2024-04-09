@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\VISUAL STUDIO CODE\PROJECTS\AERSP424 HW2\HW2\4\build\_deps\glew-subbuild\CMakeFiles\ea6762029a435c4d74e3eb65bb132641\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{AFD99B08-C40C-3D5A-9486-F569BFB78D8A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

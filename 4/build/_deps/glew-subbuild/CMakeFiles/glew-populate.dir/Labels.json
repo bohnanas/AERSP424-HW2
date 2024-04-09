@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/VISUAL STUDIO CODE/PROJECTS/AERSP424 HW2/HW2/4/build/_deps/glew-subbuild/CMakeFiles/glew-populate"
+		},
+		{
+			"file" : "D:/VISUAL STUDIO CODE/PROJECTS/AERSP424 HW2/HW2/4/build/_deps/glew-subbuild/CMakeFiles/ea6762029a435c4d74e3eb65bb132641/glew-populate.rule"
+		},
+		{
+			"file" : "D:/VISUAL STUDIO CODE/PROJECTS/AERSP424 HW2/HW2/4/build/_deps/glew-subbuild/CMakeFiles/6527ff00af496a243a51f3751ec67c25/glew-populate-complete.rule"
+		},
+		{
+			"file" : "D:/VISUAL STUDIO CODE/PROJECTS/AERSP424 HW2/HW2/4/build/_deps/glew-subbuild/CMakeFiles/5a6b6d05b9d24511fd0c0508b92fefa2/glew-populate-build.rule"
+		},
+		{
+			"file" : "D:/VISUAL STUDIO CODE/PROJECTS/AERSP424 HW2/HW2/4/build/_deps/glew-subbuild/CMakeFiles/5a6b6d05b9d24511fd0c0508b92fefa2/glew-populate-configure.rule"
+		},
+		{
+			"file" : "D:/VISUAL STUDIO CODE/PROJECTS/AERSP424 HW2/HW2/4/build/_deps/glew-subbuild/CMakeFiles/5a6b6d05b9d24511fd0c0508b92fefa2/glew-populate-download.rule"
+		},
+		{
+			"file" : "D:/VISUAL STUDIO CODE/PROJECTS/AERSP424 HW2/HW2/4/build/_deps/glew-subbuild/CMakeFiles/5a6b6d05b9d24511fd0c0508b92fefa2/glew-populate-install.rule"
+		},
+		{
+			"file" : "D:/VISUAL STUDIO CODE/PROJECTS/AERSP424 HW2/HW2/4/build/_deps/glew-subbuild/CMakeFiles/5a6b6d05b9d24511fd0c0508b92fefa2/glew-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/VISUAL STUDIO CODE/PROJECTS/AERSP424 HW2/HW2/4/build/_deps/glew-subbuild/CMakeFiles/5a6b6d05b9d24511fd0c0508b92fefa2/glew-populate-patch.rule"
+		},
+		{
+			"file" : "D:/VISUAL STUDIO CODE/PROJECTS/AERSP424 HW2/HW2/4/build/_deps/glew-subbuild/CMakeFiles/5a6b6d05b9d24511fd0c0508b92fefa2/glew-populate-test.rule"
+		},
+		{
+			"file" : "D:/VISUAL STUDIO CODE/PROJECTS/AERSP424 HW2/HW2/4/build/_deps/glew-subbuild/CMakeFiles/5a6b6d05b9d24511fd0c0508b92fefa2/glew-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glew-populate"
+		],
+		"name" : "glew-populate"
+	}
+}
